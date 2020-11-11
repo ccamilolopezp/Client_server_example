@@ -1,4 +1,4 @@
-# Client Server eExample
+# Client Server Example
 
 ## Running the Project Locally
 
