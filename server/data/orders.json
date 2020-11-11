@@ -1,0 +1,74 @@
+[
+      {
+            "customerId": 1,
+            "orderItems": [
+                {"id": 1, "productName": "Teclado", "itemCost": 500000},
+                {"id": 2, "productName": "Pantalla", "itemCost": 1000000}
+            ]
+      },
+      {
+            "customerId": 2,
+            "orderItems": [
+                {"id": 3, "productName": "Parlante", "itemCost": 600000},
+                {"id": 4, "productName": "Audifonos", "itemCost": 200000}
+            ]
+      },
+      {
+            "customerId": 3,
+            "orderItems": [
+                {"id": 5, "productName": "Mouse", "itemCost": 85000},
+                {"id": 6, "productName": "Mouse Pad", "itemCost": 15000}
+            ]
+      },
+      {
+            "customerId": 4,
+            "orderItems": [
+                {"id": 7, "productName": "Mouse", "itemCost": 85000},
+                {"id": 8, "productName": "Audifonos", "itemCost": 200000},
+                {"id": 9, "productName": "Cargador", "itemCost": 65000}
+            ]
+      },
+      {
+            "customerId": 5,
+            "orderItems": [
+                {"id": 10, "productName": "Mouse", "itemCost": 85000},
+                {"id": 11, "productName": "Teclado", "itemCost": 500000}
+            ]
+      },
+      {
+            "customerId": 6,
+            "orderItems": [
+                {"id": 12, "productName": "Cargador", "itemCost": 65000},
+                {"id": 13, "productName": "Mouse", "itemCost": 85000}
+            ]
+      },
+      {
+            "customerId": 7,
+            "orderItems": [
+                {"id": 14, "productName": "Pantalla", "itemCost": 1000000},
+                {"id": 15, "productName": "Teclado", "itemCost": 500000}
+            ]
+      },
+      {
+            "customerId": 8,
+            "orderItems": [
+                {"id": 16, "productName": "Cargador", "itemCost": 65000},
+                {"id": 17, "productName": "Parlante", "itemCost": 600000},
+                {"id": 18, "productName": "Teclado", "itemCost": 500000}
+            ]
+      },
+      {
+            "customerId": 9,
+            "orderItems": [
+                {"id": 19, "productName": "Cargador", "itemCost": 65000},
+                {"id": 20, "productName": "Audifonos", "itemCost": 200000}
+            ]
+      },
+      {
+            "customerId": 10,
+            "orderItems": [
+                {"id": 21, "productName": "Cargador", "itemCost": 65000},
+                {"id": 22, "productName": "Mouse", "itemCost": 85000}
+            ]
+      }
+]

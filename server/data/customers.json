@@ -1,0 +1,26 @@
+[
+      {
+            "id": 1,
+            "name": "Juan Perez",
+            "city": "Barranquilla",
+            "orderTotal": 1500000
+      },
+      {
+            "id": 2,
+            "name": "Andrea Granados",
+            "city": "Bogotá",
+            "orderTotal": 800000
+      },
+      {
+            "id": 3,
+            "name": "Orlando Ramirez",
+            "city": "Bogotá",
+            "orderTotal": 100000
+      },
+      {
+            "id": 4,
+            "name": "Rocio Martinez",
+            "city": "Cali",
+            "orderTotal": 350000
+      }
+]
